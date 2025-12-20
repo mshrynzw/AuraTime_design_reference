@@ -2,6 +2,9 @@
 
 AuraTime（マルチテナント型勤怠・給与管理システム）のUIデザインリファレンス実装です。
 
+<img width="1433" height="853" alt="image" src="https://github.com/user-attachments/assets/72a13787-6bae-4cc7-8f06-63279aea348c" />
+
+
 ## 概要
 
 本リポジトリは、[Bolt.new](https://bolt.new/)で生成されたAuraTimeのUIデザインリファレンスコードです。実際のAuraTimeプロジェクト（[AuraTime](https://github.com/mshrynzw/AuraTime)）のフロントエンド実装時の参考として使用します。
