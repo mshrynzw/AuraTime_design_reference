@@ -113,16 +113,8 @@ export default function LoginPage() {
             </Button>
           </form>
 
-          <div className="mt-6 text-center">
-            <p className="text-sm text-gray-600 mb-2">
-              アカウントをお持ちでない方は
-            </p>
-            <button
-              onClick={() => router.push('/signup')}
-              className="text-blue-600 hover:underline font-medium"
-            >
-              新規アカウント登録
-            </button>
+          <div className="mt-6 text-center text-sm text-gray-600">
+            <p>デモアカウントでログインできます</p>
           </div>
         </CardContent>
       </Card>
